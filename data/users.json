@@ -1,0 +1,37 @@
+{
+  "admin@khmer.ai": {
+    "full_name": "Sokha Chea (Admin)",
+    "username": "admin@khmer.ai",
+    "password_hash": "bcrypt:$2b$12$UR2F.snPYxsBv337FV75hOsph74fQP0kvGnccn1Yam8itS7duOdcO",
+    "role": "Administrator",
+    "created_at": "2026-09-27T09:42:21.771695"
+  },
+  "user_1348a5@example.com": {
+    "full_name": "Bopha Chan",
+    "username": "user_1348a5@example.com",
+    "password_hash": "bcrypt:$2b$12$5Ts1Fql1hNJfX6.QQPK/9uQH3fEelS6HHMPUNhCyEFsA6RFDPf9lm",
+    "role": "User",
+    "created_at": "2026-09-27T09:42:22.978344"
+  },
+  "bopha@khmer.ai": {
+    "full_name": "Bopha Vanna",
+    "username": "bopha@khmer.ai",
+    "password_hash": "bcrypt:$2b$12$z9kkbBgFEBh1t8i1d5fLD.2a/pvtFIa/sOkWW9k8qK6p4dLEtnbWW",
+    "role": "User",
+    "created_at": "2026-09-27T09:43:10.607997"
+  },
+  "user_46577a@example.com": {
+    "full_name": "Bopha Chan",
+    "username": "user_46577a@example.com",
+    "password_hash": "bcrypt:$2b$12$lsShyIfjuT965y4arKeYqevFDAZS1J.FbkAKbfrZq37sP9tuNQud2",
+    "role": "User",
+    "created_at": "2026-09-27T09:56:28.608107"
+  },
+  "user_14b224@example.com": {
+    "full_name": "Bopha Chan",
+    "username": "user_14b224@example.com",
+    "password_hash": "bcrypt:$2b$12$7DD1e.m7Qg0EiCjB3Wm3IeRlciRZEkNs0UjrbUgvdwRL0KX7mpeQS",
+    "role": "User",
+    "created_at": "2026-09-27T09:57:07.729982"
+  }
+}
